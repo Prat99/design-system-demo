@@ -1,6 +1,9 @@
 {
   "name": "ehg-design-system",
   "version": "0.1.0",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": ["dist"],
   "dependencies": {
     "bootstrap": "^4.3.1"
   },
